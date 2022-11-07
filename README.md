@@ -105,7 +105,7 @@ You Created. --> Save.
 
 	   kops validate cluster
 	   
-	   Suggestions:
+	   
  * validate cluster: kops validate cluster --wait 10m
  * list nodes: kubectl get nodes --show-labels
  * ssh to the master: ssh -i ~/.ssh/id_rsa ubuntu@api.class.k8s.local
