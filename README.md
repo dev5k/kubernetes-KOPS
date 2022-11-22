@@ -133,7 +133,10 @@ You Created. --> Save.
 ssh -i ~/.ssh/id_rsa ubuntu@ipAddress
 ssh -i ~/.ssh/id_rsa ubuntu@3.90.203.23
   
-  
-  to install .kube/config :
+=====================================================================================================  
+ 
+14 # to install .kube/config :
+
+
   kops export kubecfg $NAME --admin
 ``
